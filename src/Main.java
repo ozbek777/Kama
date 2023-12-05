@@ -4,6 +4,7 @@ public class Main {
         String a="ketimi";
         String b="ketimi";
         myName.printMyName("Madina");
+        myName.makeSound();
 
     }
 
