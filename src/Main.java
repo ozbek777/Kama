@@ -1,7 +1,9 @@
 public class Main {
+    static MyName myName = new MyName();
     public static void main(String[] args) {
         String a="ketimi";
         String b="ketimi";
+        myName.printMyName("Madina");
 
     }
 
