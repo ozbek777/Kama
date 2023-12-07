@@ -4,7 +4,7 @@ public class Main {
         String a="ketimi";
         String b="ketimi";
         myName.printMyName("Madina");
-        User user=new User("kamoliddin@gmail.com","123456");
+        User user=new User("Madina@gmail.com","123456");
         System.out.println(user.toString());
     }
 
