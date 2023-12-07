@@ -6,6 +6,9 @@ public class Main {
         myName.printMyName("Madina");
         myName.makeSound();
 
+        User user = new User("Madina@gmail.com","dina");
+        System.out.println("user.toString() = " + user.toString());
+
     }
 
     public void add(int a,int b){
